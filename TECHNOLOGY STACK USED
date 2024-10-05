@@ -1,0 +1,19 @@
+Technology Stack Used
+Frontend:
+HTML5: For structuring the web pages.
+CSS3: For styling and layout.
+JavaScript: For interactive elements.
+React.js: For building the user interface.
+Backend:
+Node.js: For server-side scripting.
+Express.js: For building the web application framework.
+MongoDB: For the database to store movie data and user preferences.
+Python: For implementing recommendation algorithms (if applicable).
+Libraries & Frameworks:
+TensorFlow: For implementing machine learning algorithms (if applicable).
+scikit-learn: For data analysis and machine learning (if applicable).
+Axios: For making HTTP requests to the backend.
+Tools:
+Git: Version control.
+Postman: For testing APIs.
+VS Code: Code editor.
